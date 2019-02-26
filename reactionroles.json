@@ -1,4 +1,21 @@
 {    
-  "Reaction_Name_Here":"Role_Name_Here",
-  "Reaction_Name_Two_Here":"Role_Name_Two_Here"
+  "satellite":"Media",
+  "art":"Arts",
+  "nerd":"Nerd",
+  "crossed_swords":"GoT",
+  "books":"Bookclub",
+  "regional_indicator_c":"Challenge",
+  "shallow_pan_of_food":"Foodie",
+  "sheep":"Fluff",
+  "pen_fountain":"Inktober",
+  "jack_o_lantern":"Jacky",
+  "telephone":"Kall",
+  "musical_score":"Music Theorist",
+  "guitar":"Progger",
+  "runner":"Relay",
+  "regional_indicator_s":"Shqpiel",
+  "game_die":"Tabletopsim",
+  "computer":"Techsupport",
+  "bird":"Viossadjin",
+  "tv":"Watcher",
 }
