@@ -1,6 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client({autoReconnect: true});
 const config = require('./config.json');
+const reactionRoles = require('./reactionroles.json');
 
 // modules
 const fs = require('fs');
