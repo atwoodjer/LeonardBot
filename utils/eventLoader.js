@@ -9,4 +9,5 @@ module.exports = client => {
   // client.on('reconnecting', () => reqEvent('reconnecting')(client));
   // client.on('disconnect', () => reqEvent('disconnect')(client));
   client.on('guildMemberUpdate', reqEvent('guildMemberUpdate'));
+  client.on('messageReactionAdd', reqEvent('messageReactionAdd'));
 };
